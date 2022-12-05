@@ -2,7 +2,7 @@
 
 **Course:** 24304 Artificial Intelligence
 
-**Semester:** Semester 2, 2020
+**Semester:** Semester 2, 2022
 
 **Instructor:** SERGIO CALO OLIVEIRA
 
